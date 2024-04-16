@@ -30,7 +30,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ PYTHONPATH=. FLASK_APP=hello_world flask run
   ```
 
-- Uruchamianie testów (see: http://doc.pytest.org/en/latest/capture.html):
+- Uruchamianie testów see: [test tutorial](http://doc.pytest.org/en/latest/capture.html)
 
   ```
   $ PYTHONPATH=. py.test
