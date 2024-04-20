@@ -18,7 +18,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ pip list
   ```
 
-  Sprawdź: [tutorial venv](https://docs.python.org/3/tutorial/venv.html) oraz [biblioteki flask](http://flask.pocoo.org).
+  Sprawdź: [tutorial venv](https://docs.python.org/3/tutorial/venv.html) oraz [biblioteki flask](pyt).
 
 - Uruchamianie applikacji:
 
@@ -27,10 +27,11 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ python main.py
 
   # albo:
-  $ PYTHONPATH=. FLASK_APP=hello_world flask run
+  $ 
+  
   ```
 
-- Uruchamianie testów see: [test tutorial](http://doc.pytest.org/en/latest/capture.html)
+- Uruchamianie testów (see: http://doc.pytest.org/en/latest/capture.html):
 
   ```
   $ PYTHONPATH=. py.test
