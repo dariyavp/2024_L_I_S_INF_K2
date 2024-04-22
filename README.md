@@ -31,7 +31,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   
   ```
 
-- Uruchamianie testów (see:[tutorial test] http://doc.pytest.org/en/latest/capture.html):
+- Uruchamianie testów see: [tutorial test](http://doc.pytest.org/en/latest/capture.html).
 
   ```
   $ PYTHONPATH=. py.test
